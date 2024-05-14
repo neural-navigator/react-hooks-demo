@@ -1,9 +1,9 @@
-import HookCounter2 from "./components/UseEffectDemo/HookCounter2";
+import HookMouse from "./components/UseEffectDemo/HookMouse";
 
 function App() {
   return (
     <div>
-      <HookCounter2 />
+      <HookMouse />
     </div>
   );
 }
