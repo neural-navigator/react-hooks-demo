@@ -1,9 +1,9 @@
-import HookCounter1 from "./components/UseEffectDemo/HookCounter1";
+import HookCounter2 from "./components/UseEffectDemo/HookCounter2";
 
 function App() {
   return (
     <div>
-      <HookCounter1 />
+      <HookCounter2 />
     </div>
   );
 }
