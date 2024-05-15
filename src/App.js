@@ -1,5 +1,4 @@
-import DataFetchHook from "./components/UseEffectDemo/DataFetchHook";
-import IntervalCounter from "./components/UseEffectDemo/IntervalCounter";
+import DataFetchHook from "./components/UseEffectDemo/SingleFetch";
 
 function App() {
   return (
