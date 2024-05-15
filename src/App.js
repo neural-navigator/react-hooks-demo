@@ -1,10 +1,10 @@
-import MouseContainer from "./components/UseEffectDemo/MouseContainer";
-
+import DataFetchHook from "./components/UseEffectDemo/DataFetchHook";
+import IntervalCounter from "./components/UseEffectDemo/IntervalCounter";
 
 function App() {
   return (
     <div>
-      <MouseContainer />
+      <DataFetchHook />
     </div>
   );
 }
