@@ -1,10 +1,10 @@
 import React from "react";
-import Counter2 from "./components/useReducerDemo/Counter2";
+import Counter3 from "./components/useReducerDemo/Counter3";
 
 function App() {
   return (
     <div>
-      <Counter2 />
+      <Counter3 />
     </div>
   );
 }
