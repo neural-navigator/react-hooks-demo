@@ -1,11 +1,11 @@
-import React, { useContext, useReducer } from "react";
-import DataFetching2 from "./components/useReducerDemo/DataFetching2";
+import React from "react";
+import ParentComponent from "./components/useCallbackDemo/ParentComponent";
 
 function App() {
   
   return (
       <div>
-        <DataFetching2 />
+        <ParentComponent />
       </div>
   );
 }
