@@ -1,11 +1,11 @@
 import React from "react";
-import DocTitle1 from "./components/customHook/DocTitle1";
+import Counter1 from "./components/customHook/Counter1";
 
 function App() {
   
   return (
       <div>
-        <DocTitle1/>
+        <Counter1 />
       </div>
   );
 }
